@@ -1,5 +1,5 @@
 #include<stdio.h>//这是将数字各个位数的数单独打印出来的算法
-#include<math.h>//结合进数组的话可以对各位数字进行存储
+#include<math.h>
 int LEN(int x){
     int p;
     int x_=x;
