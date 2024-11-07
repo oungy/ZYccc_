@@ -1,4 +1,4 @@
-#include<stdio.h>//17 19 60 77 2 92 38 63 92 69 91 94 11 -1
+#include<stdio.h>
 char isPP(int x)//定义质数判断函数
 {
     int i,flag=1;
